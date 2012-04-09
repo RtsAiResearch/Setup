@@ -1,4 +1,12 @@
 @Echo off
+
+set user=
+set /p user=Enter your GitHub username:
+echo Cloning RTS AI Research repos ...
+git clone https://%user%@github.com/%user%/IStrategizer.git ..\IStrategizer
+git clone https://%user%@github.com/%user%/CaseVisualizer.git ..\CaseVisualizer
+git clone https://%user%@github.com/%user%/Serialization.git ..\Serialization
+
 set bwapi=..\..\bwapi 3.7.2
 set starcraft=..\..\starcraft
 :: set bwapi_default=
