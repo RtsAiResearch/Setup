@@ -7,8 +7,8 @@ git clone https://%user%@github.com/%user%/IStrategizer.git ..\IStrategizer
 git clone https://%user%@github.com/%user%/CaseVisualizer.git ..\CaseVisualizer
 git clone https://%user%@github.com/%user%/Serialization.git ..\Serialization
 
-set bwapi=..\..\bwapi 3.7.2
-set starcraft=..\..\starcraft
+set bwapi=..\bwapi 3.7.2
+set starcraft=..\starcraft
 :: set bwapi_default=
 :: set starcraft_default=
 
