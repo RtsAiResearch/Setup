@@ -1,10 +1,10 @@
 :: Get BWAPI framework path
 set bwapi=..\bwapi 3.7.2
 set /p bwapi=Enter BWAPI path: %=%
-echo BWAPI path: %bwapi%
+echo BWAPI path (without double quotes): %bwapi%
 :: Get StarCraft game path
 set starcraft=..\starcraft
-set /p starcraft=Enter StarCraft path: %=%
+set /p starcraft=Enter StarCraft path (without double quotes): %=%
 echo StarCraft path: %starcraft%
 
 echo Setting up IStrategizer environment ...
@@ -20,7 +20,6 @@ echo Compiling Serialization Libraries
 cd ..\Serialization
 msbuild Serialization.sln /p:configuration=debug /p:platform=win32 /t:clean
 msbuild Serialization.sln /p:configuration=debug /p:platform=win32
-cd ..
 
 echo Congratulations, setup is done!
 

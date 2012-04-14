@@ -11,4 +11,5 @@ git clone https://%user%@github.com/RtsAiResearch/Setup.git RtsAiResearch\Setup
 
 :: Preparing development environment
 cd RtsAiResearch\Setup
-call RtsAiResearch\Setup\Prepare.bat
+call Prepare.bat
+cd ..\..
