@@ -1,6 +1,5 @@
 @Echo off
 
-set user=
 set /p user=Enter your GitHub username:
 echo Cloning RTS AI Research repos ...
 git clone https://%user%@github.com/%user%/IStrategizer.git ..\IStrategizer
