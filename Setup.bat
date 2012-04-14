@@ -7,7 +7,7 @@ echo Cloning RTS AI Research repos ...
 git clone https://%user%@github.com/%user%/IStrategizer.git RtsAiResearch\IStrategizer
 git clone https://%user%@github.com/%user%/CaseVisualizer.git RtsAiResearch\CaseVisualizer
 git clone https://%user%@github.com/%user%/Serialization.git RtsAiResearch\Serialization
-git clone https://%user%@github.com/RtsAiResearch/Serialization.git RtsAiResearch\Setup
+git clone https://%user%@github.com/RtsAiResearch/Setup.git RtsAiResearch\Setup
 
 :: Preparing development environment
 cd RtsAiResearch\Setup
