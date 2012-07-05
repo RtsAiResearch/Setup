@@ -10,6 +10,7 @@ echo StarCraft path: %starcraft%
 echo Setting up IStrategizer environment ...
 echo Copying BWAPI files ...
 xcopy "%bwapi%\include" "..\IStrategizer\Build\IStrategizerBWAPIClient\include" /Y /I /E /Q
+xcopy "%bwapi%\include" "..\IStrategizer\Build\StarCraftModel\include" /Y /I /E /Q
 xcopy "%bwapi%\lib" "..\IStrategizer\Build\IStrategizerBWAPIClient\lib" /Y /I /E /Q
 xcopy "%bwapi%\windows\*.*" "..\IStrategizer\Build\Debug\*.*" /Y /I /E /Q
 xcopy "%bwapi%\starcraft\*.*" "%starcraft%\*.*" /Y /I /E /Q
