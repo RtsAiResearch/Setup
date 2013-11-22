@@ -1,3 +1,4 @@
+@echo off
 :: Get BWAPI framework path
 set bwapi=..\..\bwapi 3.7.2
 set /p bwapi=Enter BWAPI path (without double quotes): %=%
