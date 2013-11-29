@@ -1,0 +1,79 @@
+11/29/2013 10:22:33 AM 12172 Logging started
+11/29/2013 10:22:33 AM 12172 Begin Startup
+11/29/2013 10:22:33 AM 12172 Chaosauncher 0.5.4.4 on NT 6.1.7601 Service Pack 1 at C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Chaoslauncher.exe
+11/29/2013 10:22:33 AM 12172 Load Settings
+11/29/2013 10:22:33 AM 12172 GamePath: C:\Fili\Development\GP\RtsAiResearch\Starcraft\
+11/29/2013 10:22:33 AM 12172 Load Plugins
+11/29/2013 10:22:33 AM 12172 AdvLoaderPluginPath: \Plugins\
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\APMAlert.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded APMAlert (1.16.1)
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Chaosplugin.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded Chaosplugin for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\iccscbn.icc
+11/29/2013 10:22:33 AM 12172 Plugin loaded ICCup
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\icctv.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded ICCup TV Streamer
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\icctvp.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded ICCup TV Player
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\LatencyChanger.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded LatencyChanger for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\repfix.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded RepFix
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Stormplugin.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded Stormplugin for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\wmode.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded W-MODE 1.02
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\APMAlert.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded APMAlert (1.16.1)
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\BWAPI_PluginInjector.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded BWAPI Injector (1.16.1) RELEASE
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\BWAPI_PluginInjectord.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded BWAPI Injector (1.16.1) DEBUG
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\Chaosplugin.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded Chaosplugin for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\LatencyChanger.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded LatencyChanger for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\repfix.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded RepFix
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\RWAPlayer.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded RWAPlayer (1.16.1)
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\RWARecorder.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded RWARecorder (1.16.1)
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\Stormplugin.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded Stormplugin for 1.16.1
+11/29/2013 10:22:33 AM 12172 Loading BWL4-Plugin C:\Fili\Development\GP\RtsAiResearch\Starcraft\Chaoslauncher\Plugins\wmode.bwl
+11/29/2013 10:22:33 AM 12172 Plugin loaded W-MODE 1.02
+11/29/2013 10:22:33 AM 12172 Load Tools
+11/29/2013 10:22:33 AM 12172 Init GUI
+11/29/2013 10:22:33 AM 12172 Get Starcraftversions
+11/29/2013 10:22:33 AM 12172 Init complete
+11/29/2013 10:22:42 AM 12172 Startbutton
+11/29/2013 10:22:42 AM 12172 Starting Game Starcraft 1.16.1 C:\Fili\Development\GP\RtsAiResearch\Starcraft\StarCraft.exe
+11/29/2013 10:22:42 AM 12172 W-MODE 1.02 Version 1.0.2 Compatible
+11/29/2013 10:22:42 AM 12172 BWAPI Injector (1.16.1) DEBUG Version  Compatible
+11/29/2013 10:22:42 AM 12172 Obtained DebugPrivilege
+11/29/2013 10:22:42 AM 12172 CreateProcess
+11/29/2013 10:22:42 AM 12172 Call ScSuspended for all active Plugins
+11/29/2013 10:22:42 AM 12172 ApplyPatchSuspended for W-MODE 1.02
+11/29/2013 10:22:45 AM 12172 ApplyPatchSuspended for BWAPI Injector (1.16.1) DEBUG
+11/29/2013 10:22:45 AM 12172 ResumeThread
+11/29/2013 10:22:45 AM 12172 WaitForInputIdle
+11/29/2013 10:22:45 AM 12172 Call ScWindowCreated for all active Plugins
+11/29/2013 10:22:45 AM 12172 ApplyPatch for W-MODE 1.02
+11/29/2013 10:22:45 AM 12172 ApplyPatch for BWAPI Injector (1.16.1) DEBUG
+11/29/2013 10:22:45 AM 12172 Starting Starcraft completed
+11/29/2013 10:23:49 AM 12172 Startbutton
+11/29/2013 10:23:49 AM 12172 Starting Game Starcraft 1.16.1 C:\Fili\Development\GP\RtsAiResearch\Starcraft\StarCraft.exe
+11/29/2013 10:23:49 AM 12172 W-MODE 1.02 Version 1.0.2 Compatible
+11/29/2013 10:23:49 AM 12172 BWAPI Injector (1.16.1) DEBUG Version  Compatible
+11/29/2013 10:23:49 AM 12172 Obtained DebugPrivilege
+11/29/2013 10:23:49 AM 12172 CreateProcess
+11/29/2013 10:23:49 AM 12172 Call ScSuspended for all active Plugins
+11/29/2013 10:23:49 AM 12172 ApplyPatchSuspended for W-MODE 1.02
+11/29/2013 10:23:53 AM 12172 ApplyPatchSuspended for BWAPI Injector (1.16.1) DEBUG
+11/29/2013 10:23:53 AM 12172 ResumeThread
+11/29/2013 10:23:53 AM 12172 WaitForInputIdle
+11/29/2013 10:23:53 AM 12172 Call ScWindowCreated for all active Plugins
+11/29/2013 10:23:53 AM 12172 ApplyPatch for W-MODE 1.02
+11/29/2013 10:23:53 AM 12172 ApplyPatch for BWAPI Injector (1.16.1) DEBUG
+11/29/2013 10:23:53 AM 12172 Starting Starcraft completed

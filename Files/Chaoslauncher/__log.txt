@@ -1,0 +1,27 @@
+[11/29/2013 9:29:34 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:29:34 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:29:34 AM] ICC module loaded
+[11/29/2013 9:29:45 AM] ICC module unloaded
+[11/29/2013 9:30:13 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:30:13 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:30:13 AM] ICC module loaded
+[11/29/2013 9:31:38 AM] ICC module unloaded
+[11/29/2013 9:31:39 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:31:39 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:31:39 AM] ICC module loaded
+[11/29/2013 9:32:26 AM] ICC module unloaded
+[11/29/2013 9:43:58 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:43:58 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:43:58 AM] ICC module loaded
+[11/29/2013 9:45:02 AM] ICC module unloaded
+[11/29/2013 9:45:06 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:45:06 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:45:06 AM] ICC module loaded
+[11/29/2013 9:53:02 AM] ICC module unloaded
+[11/29/2013 9:55:04 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 9:55:04 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 9:55:04 AM] ICC module loaded
+[11/29/2013 10:22:09 AM] ICC module unloaded
+[11/29/2013 10:22:33 AM] ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11/29/2013 10:22:33 AM] Injected into process "Chaoslauncher.exe"
+[11/29/2013 10:22:33 AM] ICC module loaded
