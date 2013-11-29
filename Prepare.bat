@@ -18,6 +18,7 @@ cd ..\Serialization
 msbuild Serialization.sln /p:configuration=debug /p:platform=win32 /t:clean
 msbuild Serialization.sln /p:configuration=debug /p:platform=win32
 
+echo Make sure to set IStrategizerBWAPIClient working directory to $(OutDir)
 echo Congratulations, setup is done!
 
 pause
