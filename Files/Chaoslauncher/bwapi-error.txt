@@ -1,0 +1,6 @@
+[2013/11/29 - 17:45:09] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+
+[2013/11/29 - 17:45:13] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+
+[2013/11/29 - 17:45:18] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+
